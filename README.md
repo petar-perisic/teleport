@@ -1,6 +1,8 @@
-## RG028-teleport
+## teleport
 
-3D platformer nalik igri "Portal".
+Jednostavna 3D simulacija.
+
+Projekat radjen u sklopu kursa Računarska grafika.
 
 ### Komande
 
@@ -8,8 +10,6 @@
 | :---  | :--- |
 | `↑` `↓` | Kretanje gore/dole|
 | `←` `→` | Kretanje levo/desno |
-| `Z` | Aktiviranje portal moda |
-| `X` | Ispaljivanje plavog portal otvora |
-| `C` | Ispaljivanje narandzastog portal otvora |
-| `V` | Pomeranje zelene kutije |
+| `Z` | Aktiviranje ruku |
+| `V` | Podizanje kutije |
 | `ESC` | Kraj programa |
